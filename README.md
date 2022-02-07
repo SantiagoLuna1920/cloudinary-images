@@ -1,3 +1,3 @@
-# Configuracion webpack para proyectos personales
+# Manejo de imagenes
 
-Esta es una configuracion para poder instalar webpack para futuros proyectos en html, css y javascript, para poder usar las configuraciones del webpack se deberan ejecutar los siguientes comandos en el orden establecido, para esto deberemos primero ejecutar ```npm install``` luego de esto, se debera ejecutar ```npm run build```
+Que tal, este es un pequeño proyecto hecho para subir imagenes a cloudinary, deberan cambiar obviamente las autenticaciones con su informacion de cloudinary para poder correr el proyecto, por ultimo, no se olviden de usar el ```npm install``` saludos.
